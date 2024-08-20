@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manojkumar Kalivarathan
-- 👀 I’m interested in blockchain
+- 👀 I’m interested in Devops
 - 🌱 I’m currently learning HTML, CSS, Javascript, Python
 - 💞️ I’m looking to collaborate on internships, projects
 - 📫 How to reach me ..  manoj.ucev@gmail.com
